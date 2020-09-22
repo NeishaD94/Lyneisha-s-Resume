@@ -214,6 +214,10 @@ a:link {
 .social.linked-in:before {
   background: url("https://cdn3.iconfinder.com/data/icons/social-media-2026/60/Socialmedia_icons_LinkedIn-128.png") center no-repeat;
 }
+.link{
+  color:black;
+}
+
 .social.html:before {
   background: url("https://kisspng-logo-responsive-web-design-html5-web-page-5ba31dfb2292b3.9082019615374166991416(1).png") center no-repeat;
 }
